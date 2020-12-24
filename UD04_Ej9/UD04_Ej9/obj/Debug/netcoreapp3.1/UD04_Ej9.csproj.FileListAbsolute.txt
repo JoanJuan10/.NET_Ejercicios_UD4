@@ -1,0 +1,12 @@
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.exe
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.deps.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.runtimeconfig.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.runtimeconfig.dev.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\bin\Debug\netcoreapp3.1\UD04_Ej9.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.AssemblyInfo.cs
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej9\UD04_Ej9\obj\Debug\netcoreapp3.1\UD04_Ej9.genruntimeconfig.cache
