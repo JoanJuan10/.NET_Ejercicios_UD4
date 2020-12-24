@@ -1,0 +1,12 @@
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.exe
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.deps.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.runtimeconfig.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.runtimeconfig.dev.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\bin\Debug\netcoreapp3.1\UD04_Ej18.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.AssemblyInfo.cs
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\UD04_Ej18\UD04_Ej18\obj\Debug\netcoreapp3.1\UD04_Ej18.genruntimeconfig.cache
