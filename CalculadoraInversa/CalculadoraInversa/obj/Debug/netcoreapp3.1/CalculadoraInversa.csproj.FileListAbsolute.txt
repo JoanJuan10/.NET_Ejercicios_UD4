@@ -1,0 +1,13 @@
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.exe
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.deps.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.runtimeconfig.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.runtimeconfig.dev.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.csprojAssemblyReference.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.AssemblyInfo.cs
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_Ejercicios_UD4\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.genruntimeconfig.cache
